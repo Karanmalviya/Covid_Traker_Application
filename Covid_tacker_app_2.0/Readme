@@ -1,0 +1,14 @@
+
+1.Firstly Connect your pc to the Stable Internet Connection.
+
+2.Then run setup.py file for running application. 
+
+3.Then after opening the application there are 4 options.
+
+4.first option country in which you can see the coronvirus cases information of mentioned countries (realtime cases).
+
+5.second option state in which you can see the coronvirus cases information of mentioned indian states (realtime cases). 
+
+6.third option district in which you can see the coronvirus cases information of mentioned indian states selected districts (realtime cases).
+
+7.fourth option vaccination in which you can view slot or book slot of vaccination (demo booking).
